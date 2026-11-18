@@ -1,0 +1,10 @@
+{
+  "name": "CART3R.JAILBREAK Developer Console",
+  "short_name": "CART3R",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080d0b",
+  "theme_color": "#080d0b",
+  "description": "Mobile-first developer assistant workspace",
+  "icons": []
+}
